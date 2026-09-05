@@ -1,0 +1,11 @@
+{
+  "name": "notion-tmdb-sync",
+  "version": "1.0.0",
+  "description": "Auto-sync TMDB data into a Notion database",
+  "main": "sync.js",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
